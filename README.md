@@ -15,3 +15,5 @@
       - C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt
       - C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um
       - C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared
+3. 安装Graalvm-ce-java11-21.2.0
+   - gu install native-image
