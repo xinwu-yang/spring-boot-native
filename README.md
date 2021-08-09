@@ -17,3 +17,5 @@
       - C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared
 3. 安装Graalvm-ce-java11-21.2.0
    - gu install native-image
+4. 构建可执行文件
+   - mvn package -P native
